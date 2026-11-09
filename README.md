@@ -8,7 +8,7 @@
 - Python 3.10+
 - Зависимости — в `requirements.txt`:
 
-```
+```zsh
 numpy>=1.24
 pandas>=2.0
 matplotlib>=3.7
